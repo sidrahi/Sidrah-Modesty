@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-02-09T12:41:01+00:00"
+    },
+    {
+      "path": "Clothing.html",
+      "title": "Clothing",
+      "description": "A new article created \n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-02-09T12:41:01+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Modesty by Sidrah",
+      "author": [],
+      "contents": "\n\n          \n          \n          Modesty by Sidrah\n          \n          \n          Home\n          Clothing\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Modesty by Sidrah\n            \n            \n              \n                \n                    \n                      \n                        \n                        Clothes\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            Assalamualaikum!!Welcome to Modesty by Sidrah.As a\n            Muslim, we believe being Modest is part of our deen\n            (Islam).You will find many luxurious\n            Abayas,Jilbabs,Khimars,Niqabs,Thobes for men and many\n            more!!❇️\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Modesty by Sidrah\n            \n            \n              \n                \n                                    \n                    \n                      \n                      Clothes\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Assalamualaikum!!Welcome to Modesty by Sidrah.As a\n              Muslim, we believe being Modest is part of our deen\n              (Islam).You will find many luxurious\n              Abayas,Jilbabs,Khimars,Niqabs,Thobes for men and many\n              more!!❇️\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-02-09T12:41:02+00:00"
+    }
+  ],
+  "collections": []
+}

@@ -1,0 +1,20 @@
+---
+title: "Modesty by Sidrah"
+image: "Images/blk.webp"
+links:
+  - label: '<i class="fa-solid fa-person-dress" style="color: #100f0f;"></i> Clothes'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Introduction
+
+Assalamualaikum!!Welcome to Modesty by Sidrah.As a Muslim, we believe being Modest is part of our deen (Islam).You will find many luxurious Abayas,Jilbabs,Khimars,Niqabs,Thobes for men and many more!!`r emo::ji("sparkle")` 
+
+
