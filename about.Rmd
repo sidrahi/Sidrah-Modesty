@@ -7,4 +7,6 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+I chose to make this website because I believe that being modest is part of our deen (Islam).
 
+“Every religion has its distinct characteristic, and the distinct characteristic of Islam is modesty.” It was narrated from Abu Bakr (RA) that the Messenger of Allah (SAW) said: “Modesty is part of faith, and faith will be in Paradise. Obscenity in speech is part of harshness and harshness will be in Hell.'”

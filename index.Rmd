@@ -15,6 +15,6 @@ site: distill::distill_website
  
 ## Introduction
 
-Assalamualaikum!!Welcome to Modesty by Sidrah.As a Muslim, we believe being Modest is part of our deen (Islam).You will find many luxurious Abayas,Jilbabs,Khimars,Niqabs,Thobes for men and many more!!`r emo::ji("sparkle")` 
+Assalamualaikum!!Welcome to Modesty by Sidrah.As a Muslim, we believe being Modest is part of our deen (Islam).You will find many luxurious Abayas and Khimars which come in sets!`r emo::ji("sparkle")` 
 
 

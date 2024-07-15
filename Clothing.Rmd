@@ -1,14 +1,26 @@
 ---
 title: "Clothing"
-description: |
-  A new article created 
+description:
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
+Modest fashion made easy with our timeless collections, made for all. Our huge range of clothing and size ranges means there is something for everyone to wear, whilst maintaining the beauty of modesty. Begin your journey with Modesty by Sidrah, the right way.
+![title of image](Images/bcks.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
